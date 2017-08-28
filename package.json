@@ -1,0 +1,26 @@
+{
+  "name": "algolabs1",
+  "version": "1.0.0",
+  "description": "A function called aritGeo that checks if an array is an arithmetic progression or a geometric progression",
+  "main": "src/main.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iverenshaguy/algolabs1.git"
+  },
+  "author": "Iveren Shaguy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iverenshaguy/algolabs1/issues"
+  },
+  "homepage": "https://github.com/iverenshaguy/algolabs1#readme",
+  "dependencies": {
+    "chai": "^4.1.1",
+    "mocha": "^3.5.0"
+  }
+}
